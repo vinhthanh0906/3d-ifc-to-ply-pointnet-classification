@@ -50,10 +50,10 @@ pip install -r requirements.txt
 Below is a sample visualization of the IFC → PLY → PointNet classification process:
 
 **PLY file:**
-![PLY file](https://github.com/user-attachments/assets/627a4366-b556-435b-a086-6154f57c6b79)
+![IFC file](https://github.com/user-attachments/assets/627a4366-b556-435b-a086-6154f57c6b79)
 
 **IFC file:**
-![IFC file](https://github.com/user-attachments/assets/1bb05b56-172c-4a76-a8ad-6430e8a533d5)
+![PLY file](https://github.com/user-attachments/assets/1bb05b56-172c-4a76-a8ad-6430e8a533d5)
 
 > Example: A 3D object converted from IFC format, processed as a point cloud, and classified by the PointNet model.
 
