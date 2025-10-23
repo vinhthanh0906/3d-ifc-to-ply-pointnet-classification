@@ -1,0 +1,9 @@
+ifcopenshell
+trimesh  
+pyrender 
+opencv-python 
+matplotlib
+numpy 
+torch
+torchvision
+torchaudio
